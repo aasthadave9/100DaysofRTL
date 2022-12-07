@@ -1,16 +1,16 @@
 # 100DaysofRTL
 
 
-Circuit | EDA Playground Link 
------------- | -------------
-MUX | https://www.edaplayground.com/x/pG5u 
-Full Adder | https://www.edaplayground.com/x/ZmEL 
-D Flip Flop | https://www.edaplayground.com/x/QsXw 
-Binary to Gray | https://www.edaplayground.com/x/cCu3 
-Decade Counter | 
-Sequence Detector | 
-Shift Register | 
-ALU | 
+SNo | Circuit | EDA Playground Link 
+--|-------- | -------------
+1 | MUX | https://www.edaplayground.com/x/pG5u 
+2 | Full Adder | https://www.edaplayground.com/x/ZmEL 
+3 | D Flip Flop | https://www.edaplayground.com/x/QsXw 
+4 | Binary to Gray | https://www.edaplayground.com/x/cCu3 
+5 | Decade Counter | 
+6 | Sequence Detector | 
+7 | Shift Register | 
+8 | ALU | 
 
 
 
