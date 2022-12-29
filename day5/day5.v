@@ -1,8 +1,8 @@
 module day5 #(
-  parameter binWidth = 
+  parameter binWidth = 4
 )(
-  input [3:0] bin,
-  output [6:0] onehot
+  input [binWidth-1:0] bin,
+  output [(2**binWidth)-1:0] onehot
 );
   
   assign onehot = 1'b1<<bin; 
