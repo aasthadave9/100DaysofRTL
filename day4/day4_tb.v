@@ -1,6 +1,6 @@
 module day4_tb();
   
-  parameter width = 4;  //change parameter if you wish
+  parameter width = 4;  
   
   reg [width-1:0] bin; 
   wire [width-1:0] gray;
