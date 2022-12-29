@@ -1,9 +1,9 @@
-module day2(
-  input [7:0] a,
-  input [7:0] b,
+module day2 (
+  input a,
+  input b,
   input cin,
-  output [7:0] sum,
-  output cout
+  output reg sum,
+  output reg cout
 );
   
   assign sum = (a ^ b ^ cin);
