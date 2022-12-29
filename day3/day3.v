@@ -1,12 +1,16 @@
-module day2(
-  input [7:0] a,
-  input [7:0] b,
-  input cin,
-  output [7:0] sum,
-  output cout
+module day3(
+  input d,
+  input clk,
+  input rst,
+  output reg q
 );
   
-  assign sum = (a ^ b ^ cin);
-  assign cout = (a & b) | (b & cin) | (cin & a);
- 
+  //synchronous reset
+  always @(posedge clk)
+    begin
+      if(rst)
+        q <= 1'b0;
+      else
+        q <= d;
+    end
 endmodule
