@@ -11,20 +11,12 @@ module day1_tb();
     sel <= 0;
     #1;
     
-    $display("a = %d, b = %d, sel = %d, y = %d", a, b, sel, y);
-    #1;
-    
     sel <= 1;
-    #1;
-    
-    $display("a = %d, b = %d, sel = %d, y = %d", a, b, sel, y);
     #1;
     
     a <= 1;
     b <= 0;
     #1;
-    
-    $display("a = %d, b = %d, sel = %d, y = %d", a, b, sel, y);
     
   end
   
