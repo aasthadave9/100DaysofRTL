@@ -10,7 +10,7 @@ SNo | Circuit | EDA Playground Link
 5 | Binary to One-hot | https://www.edaplayground.com/x/HtbU
 6 | Mod-10 Counter | https://www.edaplayground.com/x/An2F
 7 | Sequence Detector FSM | https://www.edaplayground.com/x/GwuF
-8 | Shift Register | 
+8 | Shift Register | https://www.edaplayground.com/x/Hnhe
 9 | ALU | 
 
 
