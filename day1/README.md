@@ -1,2 +1,2 @@
 ## Day 1
-2:1 MUX
+Design and verify a 2:1 MUX
