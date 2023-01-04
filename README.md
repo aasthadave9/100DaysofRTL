@@ -11,18 +11,17 @@ SNo | Circuit | EDA Playground Link
 6 | Mod-10 Counter | https://www.edaplayground.com/x/An2F
 7 | Sequence Detector FSM | https://www.edaplayground.com/x/GwuF
 8 | Shift Register | https://www.edaplayground.com/x/Hnhe
-9 | ALU | https://www.edaplayground.com/x/e6qr
-10 | 7 Segment Display | 
-11 | Parity Checker | 
-12 | UART | 
-13 | Asynchronous FIFO | 
-14 | Synchronous FIFO | 
-15 | Pulse Synchronization Circuit | 
-16 | 3-Input Sorting Logic | 
-17 | Clock divider | 
-18 | Fixed Priority Arbitrer |
-19 | Memory interface | 
-20 | Linear regression calculator | 
+9 | ALU | https://www.edaplayground.com/x/e6qr 
+10 | Even Parity Error Checker | https://www.edaplayground.com/x/UcMq
+11 | UART | 
+12 | Asynchronous FIFO | 
+13 | Synchronous FIFO | 
+14 | Pulse Synchronization Circuit | 
+15 | 3-Input Sorting Logic | 
+16 | Clock divider | 
+17 | Fixed Priority Arbitrer |
+18 | Memory interface | 
+19 | Linear regression calculator | 
 
 
 
