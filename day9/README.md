@@ -1,7 +1,7 @@
 ## Day9
 Design and verify a basic ALU that is capable of carrying out following operations:
+
 Operation | Opcode | Output | Description
---|-------- | -------------
 ADD | 000 | a + b | Addition operation
 SUB | 001 | a - b | Subtraction operation
 AND | 010 | a & b | Bitwise AND operation
