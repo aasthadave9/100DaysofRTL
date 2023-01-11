@@ -6,9 +6,7 @@ module day9 #(
   output reg [width-1:0] out,
   output reg zero
 );
-  
-  reg cout;
-  
+
   localparam ADD = 3'b000, SUB = 3'b001, AND = 3'b010, OR = 3'b011, XOR = 3'b100, SL = 3'b101, SR = 3'b110, LEQ = 3'b111;  
   
   always @*
