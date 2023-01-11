@@ -13,7 +13,7 @@ SNo | Circuit | EDA Playground Link
 8 | Shift Register | https://www.edaplayground.com/x/Hnhe
 9 | ALU | https://www.edaplayground.com/x/e6qr 
 10 | Even Parity Error Checker | https://www.edaplayground.com/x/UcMq
-11 | UART | 
+11 | Parallel in serial out | 
 12 | Asynchronous FIFO | 
 13 | Synchronous FIFO | 
 14 | Pulse Synchronization Circuit | 
