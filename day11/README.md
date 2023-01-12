@@ -1,2 +1,2 @@
 ## Day 11 
-Design and verify a Universal Asynchronous Receiver Transmitter (UART)
+Design and verify a Parallel in Serial out Shifter
